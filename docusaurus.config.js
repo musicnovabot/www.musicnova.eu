@@ -2,13 +2,13 @@
 module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://wiki.musicnova.eu',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'musicnovabot', // Usually your GitHub org/user name.
+  projectName: 'wiki.musicnova.eu', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
@@ -60,7 +60,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/musicnovabot/wiki.musicnova.eu',
             },
           ],
         },
@@ -75,13 +75,13 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/musicnovabot/wiki.musicnova.eu/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/musicnovabot/wiki.musicnova.eu/edit/master/website/blog/',
         },
       },
     ],
