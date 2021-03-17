@@ -4,15 +4,15 @@
         <title>My Site Blog</title>
         <link>https://www.musicnova.eu/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Tue, 14 Apr 2020 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Mar 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Update Logs Comming Soon]]></title>
-            <link>https://www.musicnova.eu/blog/2020/04/14/large-blog-post</link>
+            <link>https://www.musicnova.eu/blog/2021/03/14/comming-soon</link>
             <guid>Update Logs Comming Soon</guid>
-            <pubDate>Tue, 14 Apr 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[Hello, this is an example]]></description>
+            <pubDate>Sun, 14 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Update Logs are Comming Soon]]></description>
         </item>
     </channel>
 </rss>
