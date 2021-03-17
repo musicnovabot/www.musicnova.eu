@@ -2,14 +2,14 @@
 <rss version="2.0">
     <channel>
         <title>My Site Blog</title>
-        <link>https://wiki.musicnova.eu/blog</link>
+        <link>https://www.musicnova.eu/blog</link>
         <description>My Site Blog</description>
         <lastBuildDate>Tue, 14 Apr 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[A large blog post]]></title>
-            <link>https://wiki.musicnova.eu/blog/2020/04/14/large-blog-post</link>
+            <link>https://www.musicnova.eu/blog/2020/04/14/large-blog-post</link>
             <guid>A large blog post</guid>
             <pubDate>Tue, 14 Apr 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Hello, this is an example]]></description>
