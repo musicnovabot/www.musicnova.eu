@@ -8,9 +8,9 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[A large blog post]]></title>
+            <title><![CDATA[Update Logs Comming Soon]]></title>
             <link>https://www.musicnova.eu/blog/2020/04/14/large-blog-post</link>
-            <guid>A large blog post</guid>
+            <guid>Update Logs Comming Soon</guid>
             <pubDate>Tue, 14 Apr 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Hello, this is an example]]></description>
         </item>

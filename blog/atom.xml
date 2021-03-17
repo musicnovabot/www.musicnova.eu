@@ -8,8 +8,8 @@
     <subtitle>My Site Blog</subtitle>
     <icon>https://www.musicnova.eu/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[A large blog post]]></title>
-        <id>A large blog post</id>
+        <title type="html"><![CDATA[Update Logs Comming Soon]]></title>
+        <id>Update Logs Comming Soon</id>
         <link href="https://www.musicnova.eu/blog/2020/04/14/large-blog-post"/>
         <updated>2020-04-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hello, this is an example]]></summary>
